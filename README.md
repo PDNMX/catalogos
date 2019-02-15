@@ -5,3 +5,17 @@ Contiene diversos catálogos y códigos en formato JSON y CSV.
 - Estado civil
 - Grado de estudio
 - Marcas de vehículos
+
+### Catalogo catTipoOperacion1
+Aplica para el tipo de operación de las secciones:
+- Bienes inmuebles
+- Bienes muebles
+- Bienes muebles no registrables
+### Catalogo catTipoOperacion2
+- Inversiones, cuentas y valores
+- Efectivo y metales
+- Fideicomisos
+- Bienes intangibles
+### Catalogo catTipoOperacion3
+- Deudas
+- Otras obligaciones

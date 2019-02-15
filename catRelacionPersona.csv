@@ -1,0 +1,23 @@
+codigo,valor
+CONY,Cónyuge
+CONC,Concubina/Concubinario
+PSC,Pareja en Sociedad en Convivencia
+DEC,Dependiente económico
+OTRO,Otro (especifique)
+
+
+relacion persona 2
+
+CONY,Cónyuge
+CCB,Concubina o concubinario
+HJ,Hijo/Hija
+PM,Padre/Madre
+SGR,Suegro/Suegra
+YN,Yerno/Nuera
+OFM,Otro familiar (especifique)
+AMG,Amigo
+SCO,Socio
+JF,Jefe
+EPD,Empleado
+CT,Cliente
+OTRO,Otro (especifique)
