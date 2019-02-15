@@ -12,10 +12,12 @@ Aplica para el tipo de operación de las secciones:
 - Bienes muebles
 - Bienes muebles no registrables
 ### Catalogo catTipoOperacion2
+Aplica para el tipo de operación de las secciones:
 - Inversiones, cuentas y valores
 - Efectivo y metales
 - Fideicomisos
 - Bienes intangibles
 ### Catalogo catTipoOperacion3
+Aplica para el tipo de operación de las secciones:
 - Deudas
 - Otras obligaciones
