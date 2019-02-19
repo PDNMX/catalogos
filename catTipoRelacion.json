@@ -1,0 +1,18 @@
+[
+  {
+    "codigo": "CBNC",
+    "valor": "Copropietarios de bienes no comerciales"
+  },
+  {
+    "codigo": "GPR",
+    "valor": "Garantes de Préstamos Recibidos"
+  },
+  {
+    "codigo": "ODG",
+    "valor": "Otorgantes/Depositarios de Garantías"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "Otro (especifique)"
+  }
+]

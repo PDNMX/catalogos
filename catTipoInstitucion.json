@@ -1,0 +1,22 @@
+[
+  {
+    "codigo": "CJU",
+    "valor": "Consejo y/o junta"
+  },
+  {
+    "codigo": "ASC",
+    "valor": "Asociaciones civiles"
+  },
+  {
+    "codigo": "OBE",
+    "valor": "Organizaciones benéficas"
+  },
+  {
+    "codigo": "PPL",
+    "valor": "Partidos políticos"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "Otro (especifique)"
+  }
+]

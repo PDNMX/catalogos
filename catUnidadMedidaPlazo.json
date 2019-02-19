@@ -1,0 +1,18 @@
+[
+  {
+    "codigo": "DIAS",
+    "valor": "Días"
+  },
+  {
+    "codigo": "SEMS",
+    "valor": "Semanas"
+  },
+  {
+    "codigo": "MESS",
+    "valor": "Meses"
+  },
+  {
+    "codigo": "TUNI",
+    "valor": "Transacción única"
+  }
+]

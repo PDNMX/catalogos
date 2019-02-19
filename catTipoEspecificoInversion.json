@@ -1,0 +1,34 @@
+[
+  {
+    "codigo": "VALRS",
+    "valor": "Valores"
+  },
+  {
+    "codigo": "BONS",
+    "valor": "Bonos"
+  },
+  {
+    "codigo": "TITLS",
+    "valor": "Títulos"
+  },
+  {
+    "codigo": "CONTSA",
+    "valor": "Cuentas de ahorro"
+  },
+  {
+    "codigo": "FRET",
+    "valor": "Fondo de Retiro"
+  },
+  {
+    "codigo": "FINV",
+    "valor": "Fondo de Inversión"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "Otro (especifique)"
+  },
+  {
+    "codigo": "ACCS",
+    "valor": "Acciones"
+  }
+]

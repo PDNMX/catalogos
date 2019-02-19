@@ -1,0 +1,22 @@
+[
+  {
+    "codigo": "JUD",
+    "valor": "Judicial"
+  },
+  {
+    "codigo": "OCA",
+    "valor": "Órgano Constitucional Autónomo"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "Otro (especifique)"
+  },
+  {
+    "codigo": "LEG",
+    "valor": "Legislativo"
+  },
+  {
+    "codigo": "EJE",
+    "valor": "Ejecutivo"
+  }
+]

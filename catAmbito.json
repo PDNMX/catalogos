@@ -1,0 +1,22 @@
+[
+  {
+    "codigo": "PRIV",
+    "valor": "Privado"
+  },
+  {
+    "codigo": "SOC",
+    "valor": "Social"
+  },
+  {
+    "codigo": "MULT",
+    "valor": "Multilateral"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "Otro (especifique)"
+  },
+  {
+    "codigo": "PUB",
+    "valor": "Público"
+  }
+]

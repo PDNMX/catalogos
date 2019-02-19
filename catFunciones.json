@@ -1,0 +1,54 @@
+[
+  {
+    "codigo": "ABI",
+    "valor": "Administración de bienes"
+  },
+  {
+    "codigo": "ATEC",
+    "valor": "Áreas técnicas"
+  },
+  {
+    "codigo": "LEG",
+    "valor": "Legislar a nivel federal, estatal y cabildo municipal"
+  },
+  {
+    "codigo": "OTORG",
+    "valor": "Otorgamiento de permisos, beneficios, subsidios, concesiones, licencias, derechos de uso inmobiliario, recursos naturales o propiedad"
+  },
+  {
+    "codigo": "PJUS",
+    "valor": "Procuración de justicia (sentencias, ministerios públicos, fiscales, policías de investigación, auxiliares ministeriales, etc.)"
+  },
+  {
+    "codigo": "RPP",
+    "valor": "Regulación y políticas públicas"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "Otro (especifique)"
+  },
+  {
+    "codigo": "ADP",
+    "valor": "Atención directa al público"
+  },
+  {
+    "codigo": "AUDI",
+    "valor": "Auditoría, control interno, fiscalización, vigilancia, interventorías, inspección"
+  },
+  {
+    "codigo": "CASOP",
+    "valor": "Contratos, adquisiciones, servicios y obra pública"
+  },
+  {
+    "codigo": "FSI",
+    "valor": "Fuerza de seguridad e inteligencia"
+  },
+  {
+    "codigo": "ARH",
+    "valor": "Administración de recursos humanos"
+  },
+  {
+    "codigo": "AFIN",
+    "valor": "Administración Financiera (Recaudación de Ingresos, Desembolso de Fondos, Presupuestos, Contabilidad)"
+  }
+]

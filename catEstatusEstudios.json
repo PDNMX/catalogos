@@ -1,0 +1,14 @@
+[
+  {
+    "codigo": "FIN",
+    "valor": "Finalizado"
+  },
+  {
+    "codigo": "TRUN",
+    "valor": "Trunco"
+  },
+  {
+    "codigo": "CURS",
+    "valor": "Cursando"
+  }
+]

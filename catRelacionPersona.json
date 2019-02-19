@@ -1,0 +1,77 @@
+[
+  {
+    "codigo": "CONY",
+    "valor": "Cónyuge"
+  },
+  {
+    "codigo": "CONC",
+    "valor": "Concubina/Concubinario"
+  },
+  {
+    "codigo": "PSC",
+    "valor": "Pareja en Sociedad en Convivencia"
+  },
+  {
+    "codigo": "DEC",
+    "valor": "Dependiente económico"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "Otro (especifique)"
+  },
+  {
+    "codigo": "relacion persona 2"
+  },
+  {
+    "codigo": "CONY",
+    "valor": "Cónyuge"
+  },
+  {
+    "codigo": "CCB",
+    "valor": "Concubina o concubinario"
+  },
+  {
+    "codigo": "HJ",
+    "valor": "Hijo/Hija"
+  },
+  {
+    "codigo": "SCO",
+    "valor": "Socio"
+  },
+  {
+    "codigo": "CT",
+    "valor": "Cliente"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "Otro (especifique)"
+  },
+  {
+    "codigo": "AMG",
+    "valor": "Amigo"
+  },
+  {
+    "codigo": "JF",
+    "valor": "Jefe"
+  },
+  {
+    "codigo": "OFM",
+    "valor": "Otro familiar (especifique)"
+  },
+  {
+    "codigo": "PM",
+    "valor": "Padre/Madre"
+  },
+  {
+    "codigo": "EPD",
+    "valor": "Empleado"
+  },
+  {
+    "codigo": "SGR",
+    "valor": "Suegro/Suegra"
+  },
+  {
+    "codigo": "YN",
+    "valor": "Yerno/Nuera"
+  }
+]

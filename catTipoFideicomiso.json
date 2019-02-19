@@ -1,0 +1,22 @@
+[
+  {
+    "codigo": "ADMON",
+    "valor": "Administración"
+  },
+  {
+    "codigo": "INVRSN",
+    "valor": "Inversión"
+  },
+  {
+    "codigo": "TESTM",
+    "valor": "Testamentario"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "Otro (especifique)"
+  },
+  {
+    "codigo": "GARNT",
+    "valor": "Garantía"
+  }
+]

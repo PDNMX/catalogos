@@ -1,0 +1,14 @@
+[
+  {
+    "codigo": "SBI",
+    "valor": "Separación de Bienes"
+  },
+  {
+    "codigo": "MIX",
+    "valor": "Mixto"
+  },
+  {
+    "codigo": "SCO",
+    "valor": "Sociedad Conyugal"
+  }
+]

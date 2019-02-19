@@ -1,0 +1,26 @@
+[
+  {
+    "codigo": "CH",
+    "valor": "Crédito hipotecario"
+  },
+  {
+    "codigo": "VCL",
+    "valor": "Vehículo"
+  },
+  {
+    "codigo": "CP",
+    "valor": "Crédito personal"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "Otro (especifique)"
+  },
+  {
+    "codigo": "TC",
+    "valor": "Tarjeta de crédito"
+  },
+  {
+    "codigo": "DC",
+    "valor": "Deudas comerciales"
+  }
+]

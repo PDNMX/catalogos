@@ -1,0 +1,26 @@
+[
+  {
+    "codigo": "CVH",
+    "valor": "Compra de vehículo"
+  },
+  {
+    "codigo": "CCRED",
+    "valor": "Compras a crédito"
+  },
+  {
+    "codigo": "CHIP",
+    "valor": "Créditos hipotecarios"
+  },
+  {
+    "codigo": "PPERS",
+    "valor": "Préstamos personales"
+  },
+  {
+    "codigo": "TDC",
+    "valor": "Tarjetas de crédito"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "Otro (especifique)"
+  }
+]

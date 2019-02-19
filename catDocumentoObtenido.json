@@ -1,0 +1,22 @@
+[
+  {
+    "codigo": "CERT",
+    "valor": "Certificado"
+  },
+  {
+    "codigo": "CONST",
+    "valor": "Constancia"
+  },
+  {
+    "codigo": "BOL",
+    "valor": "Boleta"
+  },
+  {
+    "codigo": "TIT",
+    "valor": "Título"
+  },
+  {
+    "codigo": "DIP",
+    "valor": "Diploma"
+  }
+]

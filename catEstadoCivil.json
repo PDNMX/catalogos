@@ -1,0 +1,38 @@
+[
+  {
+    "codigo": "DIV",
+    "valor": "Divorciado (a)"
+  },
+  {
+    "codigo": "SOL",
+    "valor": "Soltero (a)"
+  },
+  {
+    "codigo": "CONC",
+    "valor": "Concubinato"
+  },
+  {
+    "codigo": "VIU",
+    "valor": "Viudo (a)"
+  },
+  {
+    "codigo": "SCON",
+    "valor": "Sociedad en convivencia"
+  },
+  {
+    "codigo": "COMP",
+    "valor": "Comprometido"
+  },
+  {
+    "codigo": "SEP",
+    "valor": "Separado (a)"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "Otro"
+  },
+  {
+    "codigo": "CAS",
+    "valor": "Casado (a)"
+  }
+]

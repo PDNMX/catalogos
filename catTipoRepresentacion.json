@@ -1,0 +1,22 @@
+[
+  {
+    "codigo": "RLEG",
+    "valor": "Representante Legal"
+  },
+  {
+    "codigo": "ACOM",
+    "valor": "Agencia Comercial"
+  },
+  {
+    "codigo": "MAND",
+    "valor": "Mandato"
+  },
+  {
+    "codigo": "APOD",
+    "valor": "Apoderado"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "Otro (especifique)"
+  }
+]

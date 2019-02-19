@@ -1,0 +1,34 @@
+[
+  {
+    "codigo": "CES",
+    "valor": "Cesión"
+  },
+  {
+    "codigo": "CONT",
+    "valor": "Contado"
+  },
+  {
+    "codigo": "CRED",
+    "valor": "Crédito"
+  },
+  {
+    "codigo": "DON",
+    "valor": "Donación"
+  },
+  {
+    "codigo": "USU",
+    "valor": "Usucapión"
+  },
+  {
+    "codigo": "REG",
+    "valor": "Regalo"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "Otro (especifique)"
+  },
+  {
+    "codigo": "SUCE",
+    "valor": "Sucesion"
+  }
+]

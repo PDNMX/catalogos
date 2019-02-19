@@ -1,0 +1,26 @@
+[
+  {
+    "codigo": "DECL",
+    "valor": "Declarante"
+  },
+  {
+    "codigo": "DEPND",
+    "valor": "Dependiente"
+  },
+  {
+    "codigo": "PREST",
+    "valor": "Prestanombre"
+  },
+  {
+    "codigo": "CONY",
+    "valor": "Cónyuge"
+  },
+  {
+    "codigo": "EPROP",
+    "valor": "Empresa propia"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "Otro (especifique)"
+  }
+]

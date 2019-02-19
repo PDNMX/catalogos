@@ -1,0 +1,34 @@
+[
+  {
+    "codigo": "DIR",
+    "valor": "Directorio"
+  },
+  {
+    "codigo": "JNT",
+    "valor": "Junta"
+  },
+  {
+    "codigo": "CSJ",
+    "valor": "Consejo"
+  },
+  {
+    "codigo": "ASC",
+    "valor": "Asociación Civil"
+  },
+  {
+    "codigo": "FUN",
+    "valor": "Fundación"
+  },
+  {
+    "codigo": "ORGB",
+    "valor": "Organización benéfica"
+  },
+  {
+    "codigo": "PP",
+    "valor": "Partido político"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "Otro (especifique)"
+  }
+]

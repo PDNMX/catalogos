@@ -1,0 +1,26 @@
+[
+  {
+    "codigo": "VEH",
+    "valor": "Vehículo"
+  },
+  {
+    "codigo": "BAR",
+    "valor": "Barco"
+  },
+  {
+    "codigo": "ANV",
+    "valor": "Aeronave"
+  },
+  {
+    "codigo": "MAQ",
+    "valor": "Maquinaria"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "Otro (especifique)"
+  },
+  {
+    "codigo": "INM",
+    "valor": "Inmueble"
+  }
+]

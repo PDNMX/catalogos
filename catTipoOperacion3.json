@@ -1,0 +1,22 @@
+[
+  {
+    "codigo": "INCP",
+    "valor": "Incorporación"
+  },
+  {
+    "codigo": "FNQT",
+    "valor": "Finiquito"
+  },
+  {
+    "codigo": "SCAMB",
+    "valor": "Sin cambio"
+  },
+  {
+    "codigo": "SLD",
+    "valor": "Saldo"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "Otro (especifique)"
+  }
+]

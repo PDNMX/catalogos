@@ -1,0 +1,22 @@
+[
+  {
+    "codigo": "INCP",
+    "valor": "Incorporación"
+  },
+  {
+    "codigo": "OBR",
+    "valor": "Obra"
+  },
+  {
+    "codigo": "VNT",
+    "valor": "Venta"
+  },
+  {
+    "codigo": "SCAMB",
+    "valor": "Sin cambio"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "Otro (especifique)"
+  }
+]

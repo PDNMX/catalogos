@@ -1,0 +1,58 @@
+[
+  {
+    "codigo": "DEC",
+    "valor": "Desarrollo económico"
+  },
+  {
+    "codigo": "COM",
+    "valor": "Comunicaciones"
+  },
+  {
+    "codigo": "MAE",
+    "valor": "Medio ambiente y ecología"
+  },
+  {
+    "codigo": "SEG",
+    "valor": "Seguridad"
+  },
+  {
+    "codigo": "SAL",
+    "valor": "Salud"
+  },
+  {
+    "codigo": "TRP",
+    "valor": "Transportes"
+  },
+  {
+    "codigo": "TUR",
+    "valor": "Turismo"
+  },
+  {
+    "codigo": "SF",
+    "valor": "Servicios financieros"
+  },
+  {
+    "codigo": "AVS",
+    "valor": "Agricultura y vida silvestre"
+  },
+  {
+    "codigo": "AL",
+    "valor": "Asuntos legales"
+  },
+  {
+    "codigo": "BR",
+    "valor": "Bienes raíces"
+  },
+  {
+    "codigo": "ENR",
+    "valor": "Energía"
+  },
+  {
+    "codigo": "EDU",
+    "valor": "Educación"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "Otro (especifique)"
+  }
+]
