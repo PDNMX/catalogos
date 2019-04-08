@@ -16,21 +16,6 @@
     "valor": "Dependiente económico"
   },
   {
-    "codigo": "OTRO",
-    "valor": "Otro (especifique)"
-  },
-  {
-    "codigo": "relacion persona 2"
-  },
-  {
-    "codigo": "CONY",
-    "valor": "Cónyuge"
-  },
-  {
-    "codigo": "CCB",
-    "valor": "Concubina o concubinario"
-  },
-  {
     "codigo": "HJ",
     "valor": "Hijo/Hija"
   },
@@ -42,10 +27,7 @@
     "codigo": "CT",
     "valor": "Cliente"
   },
-  {
-    "codigo": "OTRO",
-    "valor": "Otro (especifique)"
-  },
+  
   {
     "codigo": "AMG",
     "valor": "Amigo"
@@ -53,10 +35,6 @@
   {
     "codigo": "JF",
     "valor": "Jefe"
-  },
-  {
-    "codigo": "OFM",
-    "valor": "Otro familiar (especifique)"
   },
   {
     "codigo": "PM",
@@ -73,5 +51,9 @@
   {
     "codigo": "YN",
     "valor": "Yerno/Nuera"
-  }
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "Otro (especifique)"
+  },
 ]
