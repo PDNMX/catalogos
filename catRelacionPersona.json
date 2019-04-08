@@ -26,8 +26,7 @@
   {
     "codigo": "CT",
     "valor": "Cliente"
-  },
-  
+  },  
   {
     "codigo": "AMG",
     "valor": "Amigo"
@@ -55,5 +54,5 @@
   {
     "codigo": "OTRO",
     "valor": "Otro (especifique)"
-  },
+  }
 ]
