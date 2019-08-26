@@ -1,0 +1,6 @@
+[
+  { "codigo": "ORO", "valor": "Oro" },
+  { "codigo": "PLATA", "valor": "Plata" },
+  { "codigo": "COBRE", "valor": "Cobre" },
+  { "codigo": "OTRO", "valor": "Otro (especifique)" }
+]
