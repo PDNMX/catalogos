@@ -1,0 +1,15 @@
+[
+  { "codigo": "CONY", "valor": "Cónyuge" },
+  { "codigo": "CCB", "valor": "Concubina o concubinario" },
+  { "codigo": "HJ", "valor": "Hijo/Hija" },
+  { "codigo": "PM", "valor": "Padre/Madre" },
+  { "codigo": "SGR", "valor": "Suegro/Suegra" },
+  { "codigo": "YN", "valor": "Yerno/Nuera" },
+  { "codigo": "OFM", "valor": "Otro familiar (especifique)" },
+  { "codigo": "AMG", "valor": "Amigo" },
+  { "codigo": "SCO", "valor": "Socio" },
+  { "codigo": "JF", "valor": "Jefe" },
+  { "codigo": "EPD", "valor": "Empleado" },
+  { "codigo": "CT", "valor": "Cliente" },
+  { "codigo": "OTRO", "valor": "Otro (especifique)" }
+]
