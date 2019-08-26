@@ -1,0 +1,22 @@
+[
+  {
+    "codigo": "CONY",
+    "valor": "Cónyuge"
+  },
+  {
+    "codigo": "CONC",
+    "valor": "Concubina/Concubinario"
+  },
+  {
+    "codigo": "PSC",
+    "valor": "Pareja en Sociedad en Convivencia"
+  },
+  {
+    "codigo": "DEC",
+    "valor": "Dependiente económico"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "Otro (especifique)"
+  }
+]
