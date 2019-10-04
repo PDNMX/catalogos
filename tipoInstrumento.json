@@ -1,0 +1,30 @@
+[
+  {
+    "codigo": "CAP",
+    "valor": "CAPITAL"
+  },
+  {
+    "codigo": "FIN",
+    "valor": "FONDOS DE INVERSIÓN"
+  },
+  {
+    "codigo": "OPR",
+    "valor": "ORGANIZACIONES PRIVADA"
+  },
+  {
+    "codigo": "SSI",
+    "valor": "SEGURO DE SEPARACIÓN INDIVIDUALIZADO"
+  },
+  {
+    "codigo": "VBU",
+    "valor": "VALORES BUSÁTILES"
+  },
+  {
+    "codigo": "BON",
+    "valor": "BONOS"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "OTRO(ESPECIFIQUE)"
+  }
+]

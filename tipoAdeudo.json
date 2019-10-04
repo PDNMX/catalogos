@@ -1,0 +1,30 @@
+[
+  {
+    "codigo": "CHIP",
+    "valor": "CRÉDITO HIPOTECARIO"
+  },
+  {
+    "codigo": "CAUT",
+    "valor": "CRÉDITO AUTOMOTRIZ"
+  },
+  {
+    "codigo": "CPER",
+    "valor": "CRÉDITO PERSONAL"
+  },
+  {
+    "codigo": "TCRN",
+    "valor": "TARJETA DE CRÉDITO BANCARIA"
+  },
+  {
+    "codigo": "TCRD",
+    "valor": "TARJETA DE CRÉDITO DEPARTAMENTAL"
+  },
+  {
+    "codigo": "PRPE",
+    "valor": "PRÉSTAMO PERSONAL"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "OTROS (ESPECIFIQUE)"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "codigo": "DC",
+    "valor": "DECLARANTE"
+  },
+  {
+    "codigo": "CY",
+    "valor": "CÓNYUGE"
+  },
+  {
+    "codigo": "CON",
+    "valor": "CONCUBINA O CONCUBINARIO"
+  },
+  {
+    "codigo": "CONV",
+    "valor": "CONVIVIENTE"
+  },
+  {
+    "codigo": "HIJ",
+    "valor": "HIJO(A)"
+  },
+  {
+    "codigo": "HER",
+    "valor": "HERMANO(A)"
+  },
+  {
+    "codigo": "CU",
+    "valor": "CUÑADO(A)"
+  },
+  {
+    "codigo": "MA",
+    "valor": "MADRE"
+  },
+  {
+    "codigo": "PA",
+    "valor": "PADRE"
+  },
+  {
+    "codigo": "TIO",
+    "valor": "TÍO(A)"
+  },
+  {
+    "codigo": "PRI",
+    "valor": "PRIMO(A)"
+  },
+  {
+    "codigo": "SOB",
+    "valor": "SOBRINO(A)"
+  },
+  {
+    "codigo": "AHI",
+    "valor": "AHIJADO(A)"
+  },
+  {
+    "codigo": "NUE",
+    "valor": "NUERA"
+  },
+  {
+    "codigo": "YER",
+    "valor": "YERNO"
+  },
+  {
+    "codigo": "ABU",
+    "valor": "ABUELO(A)"
+  },
+  {
+    "codigo": "NIE",
+    "valor": "NIETO(A)"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "OTRO (ESPECIFIQUE)"
+  },
+  {
+    "codigo": "SUE",
+    "valor": "SUEGRO(A)"
+  }
+]

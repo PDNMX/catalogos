@@ -1,0 +1,18 @@
+[
+  {
+    "codigo": "S",
+    "valor": "SORTEO"
+  },
+  {
+    "codigo": "C",
+    "valor": "CONCURSO"
+  },
+  {
+    "codigo": "D",
+    "valor": "DONACIÓN"
+  },
+  {
+    "codigo": "O",
+    "valor": "OTRO (ESPECIFICO)"
+  }
+]

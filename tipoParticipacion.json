@@ -1,0 +1,34 @@
+[
+  {
+    "codigo": "SCIO",
+    "valor": "SOCIO"
+  },
+  {
+    "codigo": "ACCI",
+    "valor": "ACCIONISTA"
+  },
+  {
+    "codigo": "COMI",
+    "valor": "COMISARIO"
+  },
+  {
+    "codigo": "REPR",
+    "valor": "REPRESENTANTE"
+  },
+  {
+    "codigo": "APOD",
+    "valor": "APODERADO"
+  },
+  {
+    "codigo": "COLB",
+    "valor": "COLABORADOR"
+  },
+  {
+    "codigo": "BENE",
+    "valor": "BENEFICIARIO"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "OTROS (ESPECIFIQUE)"
+  }
+]

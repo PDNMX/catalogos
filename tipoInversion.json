@@ -1,0 +1,30 @@
+[
+  {
+    "codigo": "BANC",
+    "valor": "BANCARIA"
+  },
+  {
+    "codigo": "FINV",
+    "valor": "FONDOS DE INVERSIÓN"
+  },
+  {
+    "codigo": "ORPM",
+    "valor": "ORGANIZACIONES PRIVADAS Y/O MERCANTILES"
+  },
+  {
+    "codigo": "POMM",
+    "valor": "POSESIÓN DE MONEDAS Y/O METALES"
+  },
+  {
+    "codigo": "SEGR",
+    "valor": "SEGUROS"
+  },
+  {
+    "codigo": "VBUR",
+    "valor": "VALORES BURSÁTILES"
+  },
+  {
+    "codigo": "AFOT",
+    "valor": "AFORES Y OTROS"
+  }
+]
