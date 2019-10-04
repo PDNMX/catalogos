@@ -1,0 +1,18 @@
+[
+  {
+    "codigo": "AUMOT",
+    "valor": "AUTOMÓVIL/MOTOCICLETA"
+  },
+  {
+    "codigo": "AERN",
+    "valor": "AERONAVE"
+  },
+  {
+    "codigo": "BARYA",
+    "valor": "BARCO/YATE"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "OTROS (ESPECIFIQUE)"
+  }
+]

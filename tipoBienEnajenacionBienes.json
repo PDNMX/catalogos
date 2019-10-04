@@ -1,0 +1,14 @@
+[
+  {
+    "codigo": "MUE",
+    "valor": "MUEBLE"
+  },
+  {
+    "codigo": "INM",
+    "valor": "INMUEBLE"
+  },
+  {
+    "codigo": "VEH",
+    "valor": "VEHICULO"
+  }
+]

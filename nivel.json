@@ -1,0 +1,9 @@
+[
+  { "codigo": "PRI", "valor": "PRIMARIA" },
+  { "codigo": "SEC", "valor": "SECUNDARIA" },
+  { "codigo": "CTC", "valor": "CARRERA TÉCNICA O COMERCIAL" },
+  { "codigo": "LIC", "valor": "LICENCIATURA" },
+  { "codigo": "ESP", "valor": "ESPECIALIDAD" },
+  { "codigo": "MAE", "valor": "MAESTRÍA" },
+  { "codigo": "DOC", "valor": "DOCTORADO" }
+]

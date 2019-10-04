@@ -1,0 +1,30 @@
+[
+  {
+    "codigo": "CPV",
+    "valor": "COMPRAVENTA"
+  },
+  {
+    "codigo": "CSN",
+    "valor": "CESIÓN"
+  },
+  {
+    "codigo": "DNC",
+    "valor": "DONACIÓN"
+  },
+  {
+    "codigo": "HRN",
+    "valor": "HERENCIA"
+  },
+  {
+    "codigo": "PRM",
+    "valor": "PERMUTA"
+  },
+  {
+    "codigo": "RST",
+    "valor": "RIFA O SORTEO"
+  },
+  {
+    "codigo": "STC",
+    "valor": "SENTENCIA"
+  }
+]

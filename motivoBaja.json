@@ -1,0 +1,18 @@
+[
+  {
+    "codigo": "VNT",
+    "valor": "VENTA"
+  },
+  {
+    "codigo": "DNC",
+    "valor": "DONACIÓN"
+  },
+  {
+    "codigo": "SNT",
+    "valor": "SINIESTRO"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "OTRO(ESPECIFIQUE)"
+  }
+]

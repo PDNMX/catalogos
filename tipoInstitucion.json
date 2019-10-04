@@ -1,0 +1,22 @@
+[
+  {
+    "codigo": "OSC",
+    "valor": "ORGANIZACIONES DE LA SOCIEDAD CIVIL"
+  },
+  {
+    "codigo": "OB",
+    "valor": "ORGANIZACIONES BENÉFICAS"
+  },
+  {
+    "codigo": "PP",
+    "valor": "PARTIDOS POLITICOS"
+  },
+  {
+    "codigo": "GS",
+    "valor": "GREMIOS/SINDICATOS"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "OTRO (ESPECIFIQUE)"
+  }
+]

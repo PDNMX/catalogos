@@ -1,0 +1,18 @@
+[
+  {
+    "codigo": "SUB",
+    "valor": "SUBSIDIO"
+  },
+  {
+    "codigo": "SER",
+    "valor": "SERVICIO"
+  },
+  {
+    "codigo": "OBRA",
+    "valor": "OBRA"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "OTRO (ESPECIFIQUE)"
+  }
+]

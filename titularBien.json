@@ -1,0 +1,26 @@
+[
+  {
+    "codigo": "DEC",
+    "valor": "DECLARANTE"
+  },
+  {
+    "codigo": "CYG",
+    "valor": "CONYUGE"
+  },
+  {
+    "codigo": "CBN",
+    "valor": "CONCUBINA O CONCUBINARIO"
+  },
+  {
+    "codigo": "CVV",
+    "valor": "CONVIVIENTE"
+  },
+  {
+    "codigo": "DEN",
+    "valor": "DEPENDIENTE ECONÓMICO"
+  },
+  {
+    "codigo": "CTER",
+    "valor": "COPROPIEDAD CON TERCEROS"
+  }
+]

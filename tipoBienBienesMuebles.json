@@ -1,0 +1,26 @@
+[
+  {
+    "codigo": "MECA",
+    "valor": "MENAJE DE CASA (MUEBLES Y ACCESORIOS DE CASA)"
+  },
+  {
+    "codigo": "APAE",
+    "valor": "APARATOS ELECTRÓNICOS Y ELECTRODOMÉSTICOS"
+  },
+  {
+    "codigo": "JOYA",
+    "valor": "JOYAS"
+  },
+  {
+    "codigo": "COLEC",
+    "valor": "COLECCIONES"
+  },
+  {
+    "codigo": "OBRA",
+    "valor": "OBRAS DE ARTE"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "OTROS (ESPECIFIQUE)"
+  }
+]

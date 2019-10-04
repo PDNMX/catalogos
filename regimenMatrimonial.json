@@ -1,0 +1,14 @@
+[
+  {
+    "codigo": "SOC",
+    "valor": "SOCIEDAD CONYUGAL"
+  },
+  {
+    "codigo": "SBI",
+    "valor": "SEPARACIÓN DE BIENES"
+  },
+  {
+    "codigo": "OTR",
+    "valor": "OTRO"
+  }
+]

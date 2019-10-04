@@ -1,0 +1,38 @@
+[
+  {
+    "codigo": "CASA",
+    "valor": "CASA"
+  },
+  {
+    "codigo": "DPTO",
+    "valor": "DEPARTAMENTO"
+  },
+  {
+    "codigo": "EDIF",
+    "valor": "EDIFICIO"
+  },
+  {
+    "codigo": "LOCC",
+    "valor": "LOCAL COMERCIAL"
+  },
+  {
+    "codigo": "BODG",
+    "valor": "BODEGA"
+  },
+  {
+    "codigo": "PALC",
+    "valor": "PALCO"
+  },
+  {
+    "codigo": "RACH",
+    "valor": "RANCHO"
+  },
+  {
+    "codigo": "TERR",
+    "valor": "TERRENO"
+  },
+  {
+    "codigo": "OTRO",
+    "valor": "OTROS (ESPECIFIQUE)"
+  }
+]
