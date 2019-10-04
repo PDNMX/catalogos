@@ -1,70 +1,70 @@
 [
   {
-    "codigo": "AGRI",
+    "clave": "AGRI",
     "valor": "AGRICULTURA"
   },
   {
-    "codigo": "MIN",
+    "clave": "MIN",
     "valor": "MINERÍA"
   },
   {
-    "codigo": "EELECT",
+    "clave": "EELECT",
     "valor": "ENERGÍA ELÉCTRICA"
   },
   {
-    "codigo": "CONS",
+    "clave": "CONS",
     "valor": "CONSTRUCCIÓN"
   },
   {
-    "codigo": "INDMANU",
+    "clave": "INDMANU",
     "valor": "INDUSTRIA MANUFACTURERA"
   },
   {
-    "codigo": "CMAYOR",
+    "clave": "CMAYOR",
     "valor": "COMERCIO AL POR MAYOR"
   },
   {
-    "codigo": "CMENOR",
+    "clave": "CMENOR",
     "valor": "COMERCIO AL POR MENOR"
   },
   {
-    "codigo": "TRANS",
+    "clave": "TRANS",
     "valor": "TRANSPORTE"
   },
   {
-    "codigo": "MEDIOM",
+    "clave": "MEDIOM",
     "valor": "MEDIOS MASIVOS"
   },
   {
-    "codigo": "SERVFIN",
+    "clave": "SERVFIN",
     "valor": "SERVICIOS FINANCIEROS"
   },
   {
-    "codigo": "SERVINM",
+    "clave": "SERVINM",
     "valor": "SERVICIOS INMOBILIARIOS"
   },
   {
-    "codigo": "SERVPROF",
+    "clave": "SERVPROF",
     "valor": "SERVICIOS PROFESIONALES"
   },
   {
-    "codigo": "SERVCORP",
+    "clave": "SERVCORP",
     "valor": "SERVICIOS CORPORATIVOS"
   },
   {
-    "codigo": "SERVS",
+    "clave": "SERVS",
     "valor": "SERVICIOS DE SALUD"
   },
   {
-    "codigo": "SERVESPAR",
+    "clave": "SERVESPAR",
     "valor": "SERVICIOS DE ESPARCIMIENTO"
   },
   {
-    "codigo": "SERVALOJ",
+    "clave": "SERVALOJ",
     "valor": "SERVICIOS DE ALOJAMIENTO"
   },
   {
-    "codigo": "OTRO",
+    "clave": "OTRO",
     "valor": "OTRO (ESPECIFIQUE)"
   }
 ]

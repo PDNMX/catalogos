@@ -1,14 +1,14 @@
 [
   {
-    "codigo": "MUE",
+    "clave": "MUE",
     "valor": "MUEBLE"
   },
   {
-    "codigo": "INM",
+    "clave": "INM",
     "valor": "INMUEBLE"
   },
   {
-    "codigo": "VEH",
+    "clave": "VEH",
     "valor": "VEHICULO"
   }
 ]

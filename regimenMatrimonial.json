@@ -1,14 +1,14 @@
 [
   {
-    "codigo": "SOC",
+    "clave": "SOC",
     "valor": "SOCIEDAD CONYUGAL"
   },
   {
-    "codigo": "SBI",
+    "clave": "SBI",
     "valor": "SEPARACIÓN DE BIENES"
   },
   {
-    "codigo": "OTR",
+    "clave": "OTR",
     "valor": "OTRO"
   }
 ]

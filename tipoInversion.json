@@ -1,30 +1,30 @@
 [
   {
-    "codigo": "BANC",
+    "clave": "BANC",
     "valor": "BANCARIA"
   },
   {
-    "codigo": "FINV",
+    "clave": "FINV",
     "valor": "FONDOS DE INVERSIÓN"
   },
   {
-    "codigo": "ORPM",
+    "clave": "ORPM",
     "valor": "ORGANIZACIONES PRIVADAS Y/O MERCANTILES"
   },
   {
-    "codigo": "POMM",
+    "clave": "POMM",
     "valor": "POSESIÓN DE MONEDAS Y/O METALES"
   },
   {
-    "codigo": "SEGR",
+    "clave": "SEGR",
     "valor": "SEGUROS"
   },
   {
-    "codigo": "VBUR",
+    "clave": "VBUR",
     "valor": "VALORES BURSÁTILES"
   },
   {
-    "codigo": "AFOT",
+    "clave": "AFOT",
     "valor": "AFORES Y OTROS"
   }
 ]

@@ -1,18 +1,18 @@
 [
   {
-    "codigo": "S",
+    "clave": "S",
     "valor": "SORTEO"
   },
   {
-    "codigo": "C",
+    "clave": "C",
     "valor": "CONCURSO"
   },
   {
-    "codigo": "D",
+    "clave": "D",
     "valor": "DONACIÓN"
   },
   {
-    "codigo": "O",
+    "clave": "O",
     "valor": "OTRO (ESPECIFICO)"
   }
 ]

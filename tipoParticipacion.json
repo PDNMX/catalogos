@@ -1,34 +1,34 @@
 [
   {
-    "codigo": "SCIO",
+    "clave": "SCIO",
     "valor": "SOCIO"
   },
   {
-    "codigo": "ACCI",
+    "clave": "ACCI",
     "valor": "ACCIONISTA"
   },
   {
-    "codigo": "COMI",
+    "clave": "COMI",
     "valor": "COMISARIO"
   },
   {
-    "codigo": "REPR",
+    "clave": "REPR",
     "valor": "REPRESENTANTE"
   },
   {
-    "codigo": "APOD",
+    "clave": "APOD",
     "valor": "APODERADO"
   },
   {
-    "codigo": "COLB",
+    "clave": "COLB",
     "valor": "COLABORADOR"
   },
   {
-    "codigo": "BENE",
+    "clave": "BENE",
     "valor": "BENEFICIARIO"
   },
   {
-    "codigo": "OTRO",
+    "clave": "OTRO",
     "valor": "OTROS (ESPECIFIQUE)"
   }
 ]

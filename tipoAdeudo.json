@@ -1,30 +1,30 @@
 [
   {
-    "codigo": "CHIP",
+    "clave": "CHIP",
     "valor": "CRÉDITO HIPOTECARIO"
   },
   {
-    "codigo": "CAUT",
+    "clave": "CAUT",
     "valor": "CRÉDITO AUTOMOTRIZ"
   },
   {
-    "codigo": "CPER",
+    "clave": "CPER",
     "valor": "CRÉDITO PERSONAL"
   },
   {
-    "codigo": "TCRN",
+    "clave": "TCRN",
     "valor": "TARJETA DE CRÉDITO BANCARIA"
   },
   {
-    "codigo": "TCRD",
+    "clave": "TCRD",
     "valor": "TARJETA DE CRÉDITO DEPARTAMENTAL"
   },
   {
-    "codigo": "PRPE",
+    "clave": "PRPE",
     "valor": "PRÉSTAMO PERSONAL"
   },
   {
-    "codigo": "OTRO",
+    "clave": "OTRO",
     "valor": "OTROS (ESPECIFIQUE)"
   }
 ]

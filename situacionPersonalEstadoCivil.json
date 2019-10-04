@@ -1,8 +1,8 @@
 [
-  { "codigo": "SOL", "valor": "SOLTERO (A)" },
-  { "codigo": "CAS", "valor": "CASADO (A)" },
-  { "codigo": "DIV", "valor": "DIVORCIADO (A)" },
-  { "codigo": "VIU", "valor": "VIUDO (A)" },
-  { "codigo": "CON", "valor": "CONCUBINA/CONCUBINARIO/UNIÓN LIBRE" },
-  { "codigo": "SCO", "valor": "SOCIEDAD DE CONVIVENCIA" }
+  { "clave": "SOL", "valor": "SOLTERO (A)" },
+  { "clave": "CAS", "valor": "CASADO (A)" },
+  { "clave": "DIV", "valor": "DIVORCIADO (A)" },
+  { "clave": "VIU", "valor": "VIUDO (A)" },
+  { "clave": "CON", "valor": "CONCUBINA/CONCUBINARIO/UNIÓN LIBRE" },
+  { "clave": "SCO", "valor": "SOCIEDAD DE CONVIVENCIA" }
 ]

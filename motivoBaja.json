@@ -1,18 +1,18 @@
 [
   {
-    "codigo": "VNT",
+    "clave": "VNT",
     "valor": "VENTA"
   },
   {
-    "codigo": "DNC",
+    "clave": "DNC",
     "valor": "DONACIÓN"
   },
   {
-    "codigo": "SNT",
+    "clave": "SNT",
     "valor": "SINIESTRO"
   },
   {
-    "codigo": "OTRO",
+    "clave": "OTRO",
     "valor": "OTRO(ESPECIFIQUE)"
   }
 ]

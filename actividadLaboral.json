@@ -1,6 +1,6 @@
 [
-  { "codigo": "PRI", "valor": "PRIVADO" },
-  { "codigo": "PUB", "valor": "PUBLICO" },
-  { "codigo": "NING", "valor": "NINGUNO" },
-  { "codigo": "OTR", "valor": "OTRO (ESPECIFIQUE)" }
+  { "clave": "PRI", "valor": "PRIVADO" },
+  { "clave": "PUB", "valor": "PUBLICO" },
+  { "clave": "NING", "valor": "NINGUNO" },
+  { "clave": "OTR", "valor": "OTRO (ESPECIFIQUE)" }
 ]

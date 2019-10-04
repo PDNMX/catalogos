@@ -1,38 +1,38 @@
 [
   {
-    "codigo": "CASA",
+    "clave": "CASA",
     "valor": "CASA"
   },
   {
-    "codigo": "DPTO",
+    "clave": "DPTO",
     "valor": "DEPARTAMENTO"
   },
   {
-    "codigo": "EDIF",
+    "clave": "EDIF",
     "valor": "EDIFICIO"
   },
   {
-    "codigo": "LOCC",
+    "clave": "LOCC",
     "valor": "LOCAL COMERCIAL"
   },
   {
-    "codigo": "BODG",
+    "clave": "BODG",
     "valor": "BODEGA"
   },
   {
-    "codigo": "PALC",
+    "clave": "PALC",
     "valor": "PALCO"
   },
   {
-    "codigo": "RACH",
+    "clave": "RACH",
     "valor": "RANCHO"
   },
   {
-    "codigo": "TERR",
+    "clave": "TERR",
     "valor": "TERRENO"
   },
   {
-    "codigo": "OTRO",
+    "clave": "OTRO",
     "valor": "OTROS (ESPECIFIQUE)"
   }
 ]

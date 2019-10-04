@@ -1,18 +1,18 @@
 [
   {
-    "codigo": "AUMOT",
+    "clave": "AUMOT",
     "valor": "AUTOMÓVIL/MOTOCICLETA"
   },
   {
-    "codigo": "AERN",
+    "clave": "AERN",
     "valor": "AERONAVE"
   },
   {
-    "codigo": "BARYA",
+    "clave": "BARYA",
     "valor": "BARCO/YATE"
   },
   {
-    "codigo": "OTRO",
+    "clave": "OTRO",
     "valor": "OTROS (ESPECIFIQUE)"
   }
 ]

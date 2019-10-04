@@ -1,9 +1,9 @@
 [
-  { "codigo": "PRI", "valor": "PRIMARIA" },
-  { "codigo": "SEC", "valor": "SECUNDARIA" },
-  { "codigo": "CTC", "valor": "CARRERA TÉCNICA O COMERCIAL" },
-  { "codigo": "LIC", "valor": "LICENCIATURA" },
-  { "codigo": "ESP", "valor": "ESPECIALIDAD" },
-  { "codigo": "MAE", "valor": "MAESTRÍA" },
-  { "codigo": "DOC", "valor": "DOCTORADO" }
+  { "clave": "PRI", "valor": "PRIMARIA" },
+  { "clave": "SEC", "valor": "SECUNDARIA" },
+  { "clave": "CTC", "valor": "CARRERA TÉCNICA O COMERCIAL" },
+  { "clave": "LIC", "valor": "LICENCIATURA" },
+  { "clave": "ESP", "valor": "ESPECIALIDAD" },
+  { "clave": "MAE", "valor": "MAESTRÍA" },
+  { "clave": "DOC", "valor": "DOCTORADO" }
 ]
