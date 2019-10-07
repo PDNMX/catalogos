@@ -1,0 +1,66 @@
+[
+  {
+    "clave": "ABU",
+    "valor": "ABUELO(A)"
+  },
+  {
+    "clave": "NIE",
+    "valor": "NIETO(A)"
+  },
+  {
+    "clave": "TIOA",
+    "valor": "TIO(A)"
+  },
+  {
+    "clave": "AHI",
+    "valor": "AHIJADO(A)"
+  },
+  {
+    "clave": "NUE",
+    "valor": "NUERA"
+  },
+  {
+    "clave": "YER",
+    "valor": "YERNO"
+  },
+  {
+    "clave": "CUN",
+    "valor": "CUÑADO(A)"
+  },
+  {
+    "clave": "PAD",
+    "valor": "PADRE"
+  },
+  {
+    "clave": "HER",
+    "valor": "HERMANO(A)"
+  },
+  {
+    "clave": "PRI",
+    "valor": "PRIMO(A)"
+  },
+  {
+    "clave": "HIJ",
+    "valor": "HIJO(A)"
+  },
+  {
+    "clave": "SOB",
+    "valor": "SOBRINO(A)"
+  },
+  {
+    "clave": "MAD",
+    "valor": "MADRE"
+  },
+  {
+    "clave": "SUE",
+    "valor": "SUEGRO(A)"
+  },
+  {
+    "clave": "NIN",
+    "valor": "NINGUNO"
+  },
+  {
+    "clave": "OTRO",
+    "valor": "OTRO(ESPECIFIQUE)"
+  }
+]
