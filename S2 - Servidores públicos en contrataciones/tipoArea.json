@@ -1,0 +1,8 @@
+[
+  { "clave": "T", "valor": "TÉCNICA" },
+  { "clave": "RE", "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS" },
+  { "clave": "RC", "valor": "RESPONSABLE DE LA CONTRATACIÓN" },
+  { "clave": "O", "valor": "OTRA" },
+  { "clave": "C", "valor": "CONTRATANTE" },
+  { "clave": "R", "valor": "REQUIRENTE" }
+]
