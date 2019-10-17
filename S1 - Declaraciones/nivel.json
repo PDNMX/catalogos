@@ -1,6 +1,7 @@
 [
   { "clave": "PRI", "valor": "PRIMARIA" },
   { "clave": "SEC", "valor": "SECUNDARIA" },
+  { "clave": "BCH", "valor": "BACHILLERATO" },
   { "clave": "CTC", "valor": "CARRERA TÉCNICA O COMERCIAL" },
   { "clave": "LIC", "valor": "LICENCIATURA" },
   { "clave": "ESP", "valor": "ESPECIALIDAD" },
