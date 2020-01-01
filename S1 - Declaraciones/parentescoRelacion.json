@@ -4,56 +4,72 @@
     "valor": "ABUELO(A)"
   },
   {
-    "clave": "NIE",
-    "valor": "NIETO(A)"
+    "clave": "BISA",
+    "valor": "BISABUELO(A)"
   },
   {
-    "clave": "TIOA",
-    "valor": "TIO(A)"
+    "clave": "BISN",
+    "valor": "BISNIETO(A)"
   },
   {
-    "clave": "AHI",
-    "valor": "AHIJADO(A)"
+    "clave": "CONB",
+    "valor": "CONCUBINA O CONCUBINARIO"
   },
   {
-    "clave": "NUE",
-    "valor": "NUERA"
+    "clave": "CONC",
+    "valor": "CONCUÑO(A)"
   },
   {
-    "clave": "YER",
-    "valor": "YERNO"
+    "clave": "CONY",
+    "valor": "CÓNYUGE"
   },
   {
     "clave": "CUN",
     "valor": "CUÑADO(A)"
   },
   {
-    "clave": "PAD",
-    "valor": "PADRE"
-  },
-  {
     "clave": "HER",
     "valor": "HERMANO(A)"
-  },
-  {
-    "clave": "PRI",
-    "valor": "PRIMO(A)"
   },
   {
     "clave": "HIJ",
     "valor": "HIJO(A)"
   },
   {
-    "clave": "SOB",
-    "valor": "SOBRINO(A)"
-  },
-  {
     "clave": "MAD",
     "valor": "MADRE"
   },
   {
+    "clave": "PAD",
+    "valor": "PADRE"
+  },
+  {
+    "clave": "PRI",
+    "valor": "PRIMO(A)"
+  },
+  {
+    "clave": "SOB",
+    "valor": "SOBRINO(A)"
+  },
+  {
     "clave": "SUE",
     "valor": "SUEGRO(A)"
+  },
+  {
+    "clave": "TATA",
+    "valor": "TATARABUELO(A)"
+  },
+  {
+    "clave": "TATN",
+    "valor": "TATARANIETO(A)"
+  },
+  {
+    "clave": "TIOA",
+    "valor": "TIO(A)"
+  },
+  {
+    "clave": "NIE",
+    "valor": "NIETO(A)"
   },
   {
     "clave": "NIN",
@@ -62,5 +78,5 @@
   {
     "clave": "OTRO",
     "valor": "OTRO(ESPECIFIQUE)"
-  }
+  }  
 ]

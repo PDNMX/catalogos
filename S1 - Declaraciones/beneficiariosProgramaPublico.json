@@ -5,7 +5,7 @@
   },
   {
     "clave": "CY",
-    "valor": "CÓNYUGE"
+    "valor": "CONYUGE"
   },
   {
     "clave": "CON",
@@ -37,7 +37,7 @@
   },
   {
     "clave": "TIO",
-    "valor": "TÍO(A)"
+    "valor": "TIO(A)"
   },
   {
     "clave": "PRI",
@@ -69,10 +69,6 @@
   },
   {
     "clave": "OTRO",
-    "valor": "OTRO (ESPECIFIQUE)"
-  },
-  {
-    "clave": "SUE",
-    "valor": "SUEGRO(A)"
+    "valor": "OTRO(A)"
   }
 ]
