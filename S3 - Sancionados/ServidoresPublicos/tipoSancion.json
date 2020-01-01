@@ -1,6 +1,6 @@
 [
   { "clave": "I", "valor": "INHABILITADO" },
   { "clave": "M", "valor": "MULTADO" },
-  { "clave": "S", "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓ" },
-  { "clave": "D", "valor": "DESTITUCIÓN DEL EMPLO, CARGO O COMISIÓN" }
+  { "clave": "S", "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN" },
+  { "clave": "D", "valor": "DESTITUCIÓN DEL EMPLEO, CARGO O COMISIÓN" }
 ]
