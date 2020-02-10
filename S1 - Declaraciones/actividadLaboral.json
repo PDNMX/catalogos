@@ -1,6 +1,6 @@
 [
   { "clave": "PRI", "valor": "PRIVADO" },
   { "clave": "PUB", "valor": "PUBLICO" },
-  { "clave": "NING", "valor": "NINGUNO" },
+  { "clave": "NIN", "valor": "NINGUNO" },
   { "clave": "OTR", "valor": "OTRO (ESPECIFIQUE)" }
 ]
