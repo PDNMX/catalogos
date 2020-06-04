@@ -2,9 +2,9 @@
   { "clave": "PRI", "valor": "PRIMARIA" },
   { "clave": "SEC", "valor": "SECUNDARIA" },
   { "clave": "BCH", "valor": "BACHILLERATO" },
-  { "clave": "CTC", "valor": "CARRERA TÉCNICA O COMERCIAL" },
+  { "clave": "CTC", "valor": "CARRERA TÉCNICA O COMERCIAL" },
   { "clave": "LIC", "valor": "LICENCIATURA" },
   { "clave": "ESP", "valor": "ESPECIALIDAD" },
-  { "clave": "MAE", "valor": "MAESTRÍA" },
+  { "clave": "MAE", "valor": "MAESTRÍA" },
   { "clave": "DOC", "valor": "DOCTORADO" }
 ]
