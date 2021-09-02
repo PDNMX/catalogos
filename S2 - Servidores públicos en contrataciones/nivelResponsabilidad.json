@@ -1,5 +1,6 @@
 [
   { "clave": "A", "valor": "ATENCIÓN" },
   { "clave": "T", "valor": "TRAMITACIÓN" },
-  { "clave": "R", "valor": "RESOLUCIÓN" }
+  { "clave": "R", "valor": "RESOLUCIÓN" },
+  { "clave": "O", "valor": "OTRO" }
 ]
